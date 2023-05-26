@@ -2,14 +2,10 @@
 This is a personal blog project built using the Laravel framework. The project allows users to create an account, publish blog posts, and interact with other users through comments and likes. The project aims to provide a platform for sharing personal thoughts, experiences, and knowledge.
 
 ## Features
-User Registration and Authentication: Users can create an account, log in, and log out to access the blog features.
-Blog Post Management: Users can create, edit, and delete their own blog posts.
-Commenting System: Users can comment on blog posts, providing feedback and engaging in discussions.
-Likes: Users can like blog posts to show their appreciation or agreement.
-User Profiles: Each user has a profile page that displays their information and their published blog posts.
-Search Functionality: Users can search for specific blog posts based on keywords or categories.
-Categories: Blog posts can be organized into different categories for easy navigation.
-Responsive Design: The project is built with a responsive design, ensuring optimal user experience across different devices.
+- User Registration and Authentication: Users can create an account, log in, and log out to access the blog features. (in progress)
+- Blog Post Management: Users can create, edit, and delete their own blog posts.
+- Categories: Blog posts can be organized into different categories for easy navigation.
+- Responsive Design: The project is built with a responsive design, ensuring optimal user experience across different devices.
 
 ## Technologies Used
 Laravel framework
@@ -19,12 +15,6 @@ HTML/CSS
 JavaScript
 Bootstrap (or any other front-end framework you might have used)
 
-<!-- ## Usage
-Register a new account or log in with existing credentials.
-Explore the blog posts, search for specific topics, or browse through categories.
-Create your own blog posts and customize them as needed.
-Interact with other users by leaving comments or liking their posts.
-Edit or delete your own blog posts as desired. -->
 
 ## Screen Shots
 
